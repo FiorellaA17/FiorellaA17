@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de ingeniería en informática</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/127LCkdUYpgSgU/giphy.gif" alt="GIF animado" width="480" height="360" />
+  <img src="https://media.giphy.com/media/3o6Mbnva0iTLAlOzZK/giphy.gif" alt="GIF animado" width="480" height="367" />
 </p>
 
 ---
@@ -11,7 +11,11 @@
 - 🎓 Estudiante de ingeniería en informática.  
 - 💻 Me encanta aprender sobre nuevas herramientas.  
 - 🌱 Actualmente profundizo mis conocimientos en **.NET , CSS, HTML y JS**.  
-- 📫 **Cómo contactarme:** **adamifiorella17@gmail.com**  
+- 📫 **Cómo contactarme:** **adamifiorella17@gmail.com**
+- 
+<p align="center">
+  <img src="https://media.giphy.com/media/127LCkdUYpgSgU/giphy.gif" alt="GIF animado" width="480" height="360" />
+</p>
 
 ---
 
@@ -26,4 +30,8 @@
 ---
 
 <h3 align="center">¡Gracias por visitar mi perfil! 😊</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Mb7hjWfz9H8ZQKk/giphy.gif" alt="GIF animado" width="480" height="367" />
+</p>
 
