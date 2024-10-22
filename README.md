@@ -12,8 +12,8 @@
 - 💻 Me encanta aprender sobre nuevas herramientas.  
 - 🌱 Actualmente profundizo mis conocimientos en **.NET , CSS, HTML y JS**.  
 - 📫 **Cómo contactarme:** **adamifiorella17@gmail.com**
-- 
-<p align="center">
+  
+<p align="left">
   <img src="https://media.giphy.com/media/127LCkdUYpgSgU/giphy.gif" alt="GIF animado" width="480" height="360" />
 </p>
 
